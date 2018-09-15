@@ -1,0 +1,3 @@
+/home/fil/Documentos/caffe_pruebas/build/CMakeFiles/edit_cache.dir
+/home/fil/Documentos/caffe_pruebas/build/CMakeFiles/rebuild_cache.dir
+/home/fil/Documentos/caffe_pruebas/build/CMakeFiles/caffe_pruebas.dir

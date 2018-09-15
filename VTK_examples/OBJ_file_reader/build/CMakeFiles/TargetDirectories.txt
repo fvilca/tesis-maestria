@@ -1,0 +1,3 @@
+/home/fil/Documentos/VTK_examples/OBJ_file_reader/build/CMakeFiles/edit_cache.dir
+/home/fil/Documentos/VTK_examples/OBJ_file_reader/build/CMakeFiles/rebuild_cache.dir
+/home/fil/Documentos/VTK_examples/OBJ_file_reader/build/CMakeFiles/ReadOBJ.dir

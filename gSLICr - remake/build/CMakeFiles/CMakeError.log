@@ -1,0 +1,110 @@
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/fil/Documentos/gSLICr - remake/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_422fa/fast"
+/usr/bin/make -f CMakeFiles/cmTC_422fa.dir/build.make CMakeFiles/cmTC_422fa.dir/build
+make[1]: se entra en el directorio '/home/fil/Documentos/gSLICr - remake/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_422fa.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -fPIC    -o CMakeFiles/cmTC_422fa.dir/CheckSymbolExists.c.o   -c "/home/fil/Documentos/gSLICr - remake/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c"
+Linking C executable cmTC_422fa
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_422fa.dir/link.txt --verbose=1
+/usr/bin/cc  -fPIC     CMakeFiles/cmTC_422fa.dir/CheckSymbolExists.c.o  -o cmTC_422fa -rdynamic 
+CMakeFiles/cmTC_422fa.dir/CheckSymbolExists.c.o: En la función `main':
+CheckSymbolExists.c:(.text+0x1b): referencia a `pthread_create' sin definir
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_422fa.dir/build.make:97: fallo en las instrucciones para el objetivo 'cmTC_422fa'
+make[1]: *** [cmTC_422fa] Error 1
+make[1]: se sale del directorio '/home/fil/Documentos/gSLICr - remake/build/CMakeFiles/CMakeTmp'
+Makefile:126: fallo en las instrucciones para el objetivo 'cmTC_422fa/fast'
+make: *** [cmTC_422fa/fast] Error 2
+
+File /home/fil/Documentos/gSLICr - remake/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/fil/Documentos/gSLICr - remake/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_8b1e5/fast"
+/usr/bin/make -f CMakeFiles/cmTC_8b1e5.dir/build.make CMakeFiles/cmTC_8b1e5.dir/build
+make[1]: se entra en el directorio '/home/fil/Documentos/gSLICr - remake/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_8b1e5.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -fPIC -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_8b1e5.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.6/Modules/CheckFunctionExists.c
+Linking C executable cmTC_8b1e5
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_8b1e5.dir/link.txt --verbose=1
+/usr/bin/cc  -fPIC -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_8b1e5.dir/CheckFunctionExists.c.o  -o cmTC_8b1e5 -rdynamic -lpthreads 
+/usr/bin/ld: no se puede encontrar -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_8b1e5.dir/build.make:97: fallo en las instrucciones para el objetivo 'cmTC_8b1e5'
+make[1]: *** [cmTC_8b1e5] Error 1
+make[1]: se sale del directorio '/home/fil/Documentos/gSLICr - remake/build/CMakeFiles/CMakeTmp'
+Makefile:126: fallo en las instrucciones para el objetivo 'cmTC_8b1e5/fast'
+make: *** [cmTC_8b1e5/fast] Error 2
+
+
+Determining if the pthread_create exist failed with the following output:
+Change Dir: /home/fil/Documentos/gSLICr - remake/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_52421/fast"
+/usr/bin/make -f CMakeFiles/cmTC_52421.dir/build.make CMakeFiles/cmTC_52421.dir/build
+make[1]: se entra en el directorio '/home/fil/Documentos/gSLICr - remake/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_52421.dir/CheckSymbolExists.c.o
+/usr/bin/cc    -fPIC    -o CMakeFiles/cmTC_52421.dir/CheckSymbolExists.c.o   -c "/home/fil/Documentos/gSLICr - remake/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c"
+Linking C executable cmTC_52421
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_52421.dir/link.txt --verbose=1
+/usr/bin/cc  -fPIC     CMakeFiles/cmTC_52421.dir/CheckSymbolExists.c.o  -o cmTC_52421 -rdynamic 
+CMakeFiles/cmTC_52421.dir/CheckSymbolExists.c.o: En la función `main':
+CheckSymbolExists.c:(.text+0x1b): referencia a `pthread_create' sin definir
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_52421.dir/build.make:97: fallo en las instrucciones para el objetivo 'cmTC_52421'
+make[1]: *** [cmTC_52421] Error 1
+make[1]: se sale del directorio '/home/fil/Documentos/gSLICr - remake/build/CMakeFiles/CMakeTmp'
+Makefile:126: fallo en las instrucciones para el objetivo 'cmTC_52421/fast'
+make: *** [cmTC_52421/fast] Error 2
+
+File /home/fil/Documentos/gSLICr - remake/build/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/fil/Documentos/gSLICr - remake/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_d9655/fast"
+/usr/bin/make -f CMakeFiles/cmTC_d9655.dir/build.make CMakeFiles/cmTC_d9655.dir/build
+make[1]: se entra en el directorio '/home/fil/Documentos/gSLICr - remake/build/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_d9655.dir/CheckFunctionExists.c.o
+/usr/bin/cc    -fPIC -DCHECK_FUNCTION_EXISTS=pthread_create   -o CMakeFiles/cmTC_d9655.dir/CheckFunctionExists.c.o   -c /usr/local/share/cmake-3.6/Modules/CheckFunctionExists.c
+Linking C executable cmTC_d9655
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_d9655.dir/link.txt --verbose=1
+/usr/bin/cc  -fPIC -DCHECK_FUNCTION_EXISTS=pthread_create    CMakeFiles/cmTC_d9655.dir/CheckFunctionExists.c.o  -o cmTC_d9655 -rdynamic -lpthreads 
+/usr/bin/ld: no se puede encontrar -lpthreads
+collect2: error: ld returned 1 exit status
+CMakeFiles/cmTC_d9655.dir/build.make:97: fallo en las instrucciones para el objetivo 'cmTC_d9655'
+make[1]: *** [cmTC_d9655] Error 1
+make[1]: se sale del directorio '/home/fil/Documentos/gSLICr - remake/build/CMakeFiles/CMakeTmp'
+Makefile:126: fallo en las instrucciones para el objetivo 'cmTC_d9655/fast'
+make: *** [cmTC_d9655/fast] Error 2
+
+

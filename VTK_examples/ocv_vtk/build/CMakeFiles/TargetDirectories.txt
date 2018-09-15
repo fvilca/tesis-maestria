@@ -1,0 +1,3 @@
+/home/fil/Documentos/VTK_examples/ocv_vtk/build/CMakeFiles/edit_cache.dir
+/home/fil/Documentos/VTK_examples/ocv_vtk/build/CMakeFiles/rebuild_cache.dir
+/home/fil/Documentos/VTK_examples/ocv_vtk/build/CMakeFiles/ocv_vtk.dir

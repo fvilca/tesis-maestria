@@ -1,0 +1,3 @@
+/home/fil/Documentos/VTK_file_reader/CylinderRenderingProperties/build/CMakeFiles/edit_cache.dir
+/home/fil/Documentos/VTK_file_reader/CylinderRenderingProperties/build/CMakeFiles/rebuild_cache.dir
+/home/fil/Documentos/VTK_file_reader/CylinderRenderingProperties/build/CMakeFiles/CylinderRenderingProperties.dir

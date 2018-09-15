@@ -1,0 +1,7 @@
+/home/fil/Documentos/gSLICr - remake/build/CMakeFiles/edit_cache.dir
+/home/fil/Documentos/gSLICr - remake/build/CMakeFiles/rebuild_cache.dir
+/home/fil/Documentos/gSLICr - remake/build/CMakeFiles/demo.dir
+/home/fil/Documentos/gSLICr - remake/build/CMakeFiles/gSLICr_lib.dir
+/home/fil/Documentos/gSLICr - remake/build/ORUtils/CMakeFiles/rebuild_cache.dir
+/home/fil/Documentos/gSLICr - remake/build/ORUtils/CMakeFiles/edit_cache.dir
+/home/fil/Documentos/gSLICr - remake/build/ORUtils/CMakeFiles/ORUtils.dir

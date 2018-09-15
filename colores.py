@@ -1,0 +1,1 @@
+/home/fil/Documentos/bilateralinceptions2/scripts/config.py

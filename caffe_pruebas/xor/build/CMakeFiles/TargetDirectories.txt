@@ -1,0 +1,3 @@
+/home/fil/Documentos/caffe_pruebas/xor/build/CMakeFiles/edit_cache.dir
+/home/fil/Documentos/caffe_pruebas/xor/build/CMakeFiles/rebuild_cache.dir
+/home/fil/Documentos/caffe_pruebas/xor/build/CMakeFiles/testnet.dir

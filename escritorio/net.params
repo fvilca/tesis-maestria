@@ -1,0 +1,27 @@
+(
+'net.params: ',
+ OrderedDict (
+[
+('transform_features', <caffe._caffe.BlobVec object at 0x7f643e9d18a0>),
+('scale_fc6', <caffe._caffe.BlobVec object at 0x7f63c241fe50>), 
+('scale_fc7', <caffe._caffe.BlobVec object at 0x7f63c241fde0>), 
+('conv1_1', <caffe._caffe.BlobVec object at 0x7f63c241fd70>),
+('conv1_2', <caffe._caffe.BlobVec object at 0x7f63c241fd00>),
+('conv2_1', <caffe._caffe.BlobVec object at 0x7f63c241fc90>),
+('conv2_2', <caffe._caffe.BlobVec object at 0x7f63c241fc20>),
+('conv3_1', <caffe._caffe.BlobVec object at 0x7f63c241fbb0>), 
+('conv3_2', <caffe._caffe.BlobVec object at 0x7f63c241fb40>),
+('conv3_3', <caffe._caffe.BlobVec object at 0x7f63c241fad0>), 
+('conv4_1', <caffe._caffe.BlobVec object at 0x7f63c241fa60>),
+('conv4_2', <caffe._caffe.BlobVec object at 0x7f63c241f9f0>), 
+('conv4_3', <caffe._caffe.BlobVec object at 0x7f63c241f980>),
+('conv5_1', <caffe._caffe.BlobVec object at 0x7f63c241fec0>), 
+('conv5_2', <caffe._caffe.BlobVec object at 0x7f63c241f910>),
+('conv5_3', <caffe._caffe.BlobVec object at 0x7f63c241f8a0>), 
+('fc6', <caffe._caffe.BlobVec object at 0x7f63c241f830>), 
+('fc6_w', <caffe._caffe.BlobVec object at 0x7f63c241f7c0>), 
+('fc7', <caffe._caffe.BlobVec object at 0x7f63c241f6e0>), 
+('fc7_w', <caffe._caffe.BlobVec object at 0x7f63c241f600>), 
+('fc8_voc12', <caffe._caffe.BlobVec object at 0x7f63c241f590>)
+]
+))

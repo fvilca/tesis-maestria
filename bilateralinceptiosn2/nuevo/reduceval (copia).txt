@@ -1,0 +1,12 @@
+avion0
+avion1
+bird0
+bird1
+bird2
+bird3
+bird4
+gato0
+gato2
+loro0
+loro1
+loro3

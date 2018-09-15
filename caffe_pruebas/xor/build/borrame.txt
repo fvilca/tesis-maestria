@@ -1,0 +1,10 @@
+* BaseDataLayer *****************
+* MemoryDataLayer *****************
+* SigmoidLayer *****************
+* SigmoidLayer *****************
+* SigmoidLayer *****************
+* BaseDataLayer *****************
+* MemoryDataLayer *****************
+* SigmoidLayer *****************
+* SigmoidLayer *****************
+* SigmoidLayer *****************
